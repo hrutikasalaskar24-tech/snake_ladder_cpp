@@ -1,6 +1,6 @@
 # snake_ladder_cpp
 A simple snake ladder game implemented in C++ using basic concepts.
-## description
+## Description
 This project is a simple snake ladder game implemented in C++ using basic concepts.
 It use basic programming concepts like loops,conditions,and random numbers.
 
